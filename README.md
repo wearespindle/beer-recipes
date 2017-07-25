@@ -1,10 +1,10 @@
 # Devhouse Spindle beer recipes
 
-This repository contains the Spindle beer recipes, organized by date.
+This repository contains Spindle beer recipes.
 
 ## How it all started
 
-Someday in the end of June 2017 this appeared in our Slack:
+Someday on a sunny afternoon in June 2017, this appeared in our Slack:
 
 *Ok, best idea ever. We are going to make our own beer!*
 
@@ -15,5 +15,5 @@ Someday in the end of June 2017 this appeared in our Slack:
 
 ## Our brews
 
-1. "[503](503.md)" - first Spindle brew ever. 2000 liters, brewed by [Bax Bier](http://baxbier.com/) in Groningen.  
+1. "[503](503.md)" - first Spindle brew ever. Brewed at the [Bax Bier](http://baxbier.com/) brewery in Groningen.  
 2. TBD
