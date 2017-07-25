@@ -16,8 +16,8 @@
 ### Malt
 
 - Basic malt, 60%
-- Oatmeal, 13.37%
-- Oats, 13.37%
+- Malted oats, 13.37%
+- Unmalted oats, 13.37%
 - Carapils, 13.37% (adds body, mouth feel and head retention.)
 
 ### Hops
