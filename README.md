@@ -1,5 +1,6 @@
 # Devhouse Spindle beer recipes
 
+<img src="images/BeerWare_Logo.png" align="right" alt="[BEER-WARE]" />
 This repository contains Spindle beer recipes.
 
 ## How it all started
