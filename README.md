@@ -18,3 +18,12 @@ Someday on a sunny afternoon in June 2017, this appeared in our Slack:
 
 1. "[503](503.md)" - first Spindle brew ever. Brewed at the [Bax Bier](http://baxbier.com/) brewery in Groningen.  
 2. TBD
+
+## Untappd
+
+We are listed as a home brewery on [Untappd](https://untappd.com/DevhouseSpindle).
+
+<a href='https://untappd.com/DevhouseSpindle?ref=followbtn'><img src='https://d1c8v1qci5en44.cloudfront.net/social/ut_badge_152.png' /></a>
+
+---
+Devhouse Spindle - Groningen - 2017.
